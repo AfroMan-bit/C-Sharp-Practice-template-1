@@ -1,0 +1,11 @@
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\bin\Debug\netcoreapp2.2\HumanAndNinja.deps.json
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\bin\Debug\netcoreapp2.2\HumanAndNinja.runtimeconfig.json
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\bin\Debug\netcoreapp2.2\HumanAndNinja.runtimeconfig.dev.json
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\bin\Debug\netcoreapp2.2\HumanAndNinja.dll
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\bin\Debug\netcoreapp2.2\HumanAndNinja.pdb
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\obj\Debug\netcoreapp2.2\HumanAndNinja.csprojAssemblyReference.cache
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\obj\Debug\netcoreapp2.2\HumanAndNinja.csproj.CoreCompileInputs.cache
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\obj\Debug\netcoreapp2.2\HumanAndNinja.AssemblyInfoInputs.cache
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\obj\Debug\netcoreapp2.2\HumanAndNinja.AssemblyInfo.cs
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\obj\Debug\netcoreapp2.2\HumanAndNinja.dll
+C:\Users\OYEWO\Desktop\CODING_DOJO\C sharp\HumanAndNinja\obj\Debug\netcoreapp2.2\HumanAndNinja.pdb
